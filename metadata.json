@@ -1,0 +1,6 @@
+{
+  "name": "ZARMA HOSPITAL",
+  "description": "Healthcare portal for ZARMA HOSPITAL (Nowshera, KPK • Phone: 03295992635), featuring patient booking, clinical doctor agenda & EHR notes, and enterprise Admin Dashboard with Master Analytics, Scheduling, and Operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
